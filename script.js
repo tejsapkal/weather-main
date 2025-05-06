@@ -6,7 +6,7 @@ const weatherCardsDiv = document.querySelector(".weather-cards");
 const tempToggleBtn = document.querySelector(".temp-toggle-btn");
 const hourlyForecastDiv = document.querySelector(".hourly-forecast");
 
-const API_KEY = "aabb88002cef5c1493652cdc60a114e5";
+const API_KEY = 
 
 let isCelsius = true;
 
