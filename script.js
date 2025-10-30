@@ -113,3 +113,11 @@ searchButton.addEventListener("click", getCityCoordinates);
 cityInput.addEventListener("keyup", (e) => {
     if (e.key === "Enter") getCityCoordinates();
 });
+
+const dateTimeEl = document.getElementById("date-time");
+setInterval(() => {
+  const now = new Date();
+  dateTimeEl.textContent = now.toLocaleString();
+}, 1000);
+
+
