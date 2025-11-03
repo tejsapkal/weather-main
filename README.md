@@ -6,7 +6,7 @@ This project demonstrates API integration, asynchronous JavaScript, and clean UI
 
 ##  Live Demo
 
-View Deployed App on Netlify ---- ( link )
+View Deployed App on Netlify ---- ( https://weather-appmain.netlify.app/ )
 
 
 ##  Overview
@@ -46,3 +46,4 @@ This project showcases:
 **JavaScript**   
 **OpenWeatherMap API** 
 **Netlify**            
+
