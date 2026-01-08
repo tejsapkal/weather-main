@@ -120,4 +120,8 @@ setInterval(() => {
   dateTimeEl.textContent = now.toLocaleString();
 }, 1000);
 
+window.addEventListener("DOMContentLoaded", () => {
+    getCityCoordinates();
+});
+
 
